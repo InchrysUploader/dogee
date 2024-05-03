@@ -59,9 +59,11 @@ if (window.location.pathname === "/index.html" || window.location.pathname === "
     setInterval(clock, 1000);
     
     const options = [
-      "Abdiel i gotchu",
-      "abdiel is so cool guys",
+      "disk i gotchu",
+      "inch on top",
       "moon likes minors",
+      "why are trees?",
+      "disk is a stoner",
     ];
     
     function getRandomOption() {
